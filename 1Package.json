@@ -8,6 +8,7 @@
     "start-web-dev": "DEBUG=expo* bunx rork start -p 2ds4b79xsi4s13184u1p1 --web --tunnel"
   },
   "dependencies": {
+    "@expo/cli": "^0.24.20",
     "@expo/vector-icons": "^14.1.0",
     "@nkzw/create-context-hook": "^1.1.0",
     "@react-native-async-storage/async-storage": "2.1.2",
